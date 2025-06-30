@@ -5,7 +5,7 @@ This repository contains training exercises using **Matplotlib** and **Seaborn**
 ## Purpose
 
 These notebooks were created as practice materials for learning how to use Matplotlib and Seaborn for data visualization in Python.  
-There is nothing special or unique — they are just training exercises.
+
 
 ## Files
 
